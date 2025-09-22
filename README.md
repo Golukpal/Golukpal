@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kumar
+# Hi there 👋, I'm Golu Kumar Pal
 
 💻 Passionate about building software with **Go**, and modern web technologies.  
 🚀 Exploring backend systems, databases, and scalable architectures.  
