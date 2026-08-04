@@ -27,7 +27,7 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/golukpal)  
 
-📩 **Reach me at:** heygolukpal.com  
+📩 **Reach me at:** heygolukpal@gmail.com  
 
 ---
 ✨ _"Code, Learn, Repeat."_ ✨
