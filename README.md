@@ -17,17 +17,6 @@ Currently exploring **Go, DevOps, Cloud & Distributed Systems**.
 > **Build → Deploy → Automate → Scale.**  
  
 
----
-
-## 📊 Contribution Streak
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Golukpal&theme=radical&hide_border=false" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golukpal&layout=compact&langs_count=10&theme=radical"/>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
