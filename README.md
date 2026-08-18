@@ -14,7 +14,6 @@ Currently exploring **Go, DevOps, Cloud & Distributed Systems**.
 
 📚 Lifelong learner | Open-source enthusiast | Tech explorer. 
 
-> **Build → Deploy → Automate → Scale.**
 
 
 ---
